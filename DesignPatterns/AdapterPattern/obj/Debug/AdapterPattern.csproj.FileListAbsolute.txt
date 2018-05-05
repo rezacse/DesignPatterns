@@ -1,0 +1,9 @@
+E:\devResources\_git\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+E:\devResources\_git\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+E:\devResources\_git\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\devResources\_git\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\devResources\_git\DesignPatterns\AdapterPattern\bin\Debug\Newtonsoft.Json.dll
+E:\devResources\_git\DesignPatterns\AdapterPattern\bin\Debug\Newtonsoft.Json.xml
+E:\devResources\_git\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+E:\devResources\_git\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb
+E:\devResources\_git\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
