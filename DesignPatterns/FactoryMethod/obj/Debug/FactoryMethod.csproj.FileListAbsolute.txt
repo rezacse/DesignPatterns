@@ -5,3 +5,9 @@ E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj
 E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
 E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
 E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\_git\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\_git\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\_git\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\_git\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\_git\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -7,3 +7,13 @@ E:\devResources\_git\DesignPatterns\AdapterPattern\bin\Debug\Newtonsoft.Json.xml
 E:\devResources\_git\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
 E:\devResources\_git\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb
 E:\devResources\_git\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\bin\Debug\Newtonsoft.Json.dll
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\bin\Debug\Newtonsoft.Json.xml
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.CopyComplete
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb
+D:\_git\DesignPatterns\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
