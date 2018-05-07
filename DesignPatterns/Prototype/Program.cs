@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace PrototypeWithoutBuiltIn
+namespace Prototype
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             const string webUrl = "http://www.google.com";
             var reader = new WebPageReader(webUrl);

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PrototypeWithoutBuiltIn
+namespace Prototype
 {
     public class WebPageReader : WebPageReaderPrototype
     {

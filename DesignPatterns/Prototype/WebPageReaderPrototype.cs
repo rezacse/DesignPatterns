@@ -1,4 +1,4 @@
-﻿namespace PrototypeWithoutBuiltIn
+﻿namespace Prototype
 {
     public abstract class WebPageReaderPrototype
     {

@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PrototypeWithoutBuiltIn;
+using Prototype.BuiltIn;
 
 namespace Prototype.Tests
 {

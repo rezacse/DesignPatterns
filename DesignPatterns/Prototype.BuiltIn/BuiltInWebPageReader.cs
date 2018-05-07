@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Prototype
+namespace Prototype.BuiltIn
 {
     public class BuiltInWebPageReader : ICloneable
     {

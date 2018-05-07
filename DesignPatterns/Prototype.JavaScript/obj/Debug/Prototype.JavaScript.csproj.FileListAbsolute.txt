@@ -51,7 +51,6 @@ D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\bin\roslyn\VBCSCompil
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\bin\roslyn\VBCSCompiler.exe.config
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csprojResolveAssemblyReference.cache
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csproj.CopyComplete
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.dll
