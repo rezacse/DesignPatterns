@@ -1,0 +1,6 @@
+D:\_git\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.exe
+D:\_git\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.pdb
+D:\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.exe
+D:\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.pdb

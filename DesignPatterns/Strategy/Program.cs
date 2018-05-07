@@ -9,7 +9,7 @@ namespace Strategy
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var employees = new List<Employee>
             {
@@ -27,23 +27,23 @@ namespace Strategy
                 }
             };
 
-            Console.WriteLine("------------------------------------------------------");
+            LineDivider();
             Console.WriteLine("Strategy With Constructor Passing and Factory Methods");
-            Console.WriteLine("------------------------------------------------------");
+            LineDivider();
 
             foreach (var employee in employees)
             {
                 IEmployeeBonusCalculator employeeBonusCalculator = new EmployeeBonusManagerFactory().GetEmployeeManager(employee);
                 var salaryCalculator = new EmployeeSalaryCalculatorService(employeeBonusCalculator);
                 Console.WriteLine($"Name: {employee.Name}, Total Salary: {salaryCalculator.CalculateSalary(employee)}");
-                Console.WriteLine("------------------------------------------------------");
+                LineDivider();
             }
 
             //with delegate passing
             Console.WriteLine();
-            Console.WriteLine("------------------------------------------------------");
+            LineDivider();
             Console.WriteLine("Strategy With Delegate Passing");
-            Console.WriteLine("------------------------------------------------------");
+            LineDivider();
 
             var employeeSalaryCalculator = new EmployeeSalaryCalculatorService();
 
@@ -52,10 +52,16 @@ namespace Strategy
                 var employeeBonusDelegate = new EmployeeBonusDelegateFactory().GetEmployeeDelegate(employee);
                 var totalSalary = employeeSalaryCalculator.CalculateSalary(employees[0], employeeBonusDelegate);
                 Console.WriteLine($"Name: {employees[0].Name}, Total Salary: {totalSalary}");
-                Console.WriteLine("------------------------------------------------------");
+                LineDivider();
             }
 
             Console.ReadKey();
+        }
+
+
+        private static void LineDivider()
+        {
+            Console.WriteLine("------------------------------------------------------");
         }
 
     }

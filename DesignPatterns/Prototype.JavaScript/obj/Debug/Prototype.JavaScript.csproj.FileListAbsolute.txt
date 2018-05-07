@@ -55,3 +55,4 @@ D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.J
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csproj.CopyComplete
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.dll
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.pdb
+D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csprojResolveAssemblyReference.cache
