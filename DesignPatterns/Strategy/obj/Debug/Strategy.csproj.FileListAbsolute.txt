@@ -4,3 +4,4 @@ D:\_git\DesignPatterns\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
 D:\_git\DesignPatterns\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\Strategy\obj\Debug\Strategy.exe
 D:\_git\DesignPatterns\DesignPatterns\Strategy\obj\Debug\Strategy.pdb
+D:\_git\DesignPatterns\DesignPatterns\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache

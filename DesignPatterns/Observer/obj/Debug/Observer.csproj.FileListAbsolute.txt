@@ -1,0 +1,7 @@
+D:\_git\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.exe
+D:\_git\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.pdb
+D:\_git\DesignPatterns\DesignPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\_git\DesignPatterns\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Observer\obj\Debug\Observer.exe
+D:\_git\DesignPatterns\DesignPatterns\Observer\obj\Debug\Observer.pdb
