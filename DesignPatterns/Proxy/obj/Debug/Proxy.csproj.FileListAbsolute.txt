@@ -1,0 +1,6 @@
+D:\_git\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.exe
+D:\_git\DesignPatterns\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
+D:\_git\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.exe
+D:\_git\DesignPatterns\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

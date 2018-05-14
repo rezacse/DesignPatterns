@@ -1,0 +1,7 @@
+D:\_git\DesignPatterns\DesignPatterns\Proxy.LazyLoad\bin\Debug\Proxy.LazyLoad.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Proxy.LazyLoad\bin\Debug\Proxy.LazyLoad.exe
+D:\_git\DesignPatterns\DesignPatterns\Proxy.LazyLoad\bin\Debug\Proxy.LazyLoad.pdb
+D:\_git\DesignPatterns\DesignPatterns\Proxy.LazyLoad\obj\Debug\Proxy.LazyLoad.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Proxy.LazyLoad\obj\Debug\Proxy.LazyLoad.exe
+D:\_git\DesignPatterns\DesignPatterns\Proxy.LazyLoad\obj\Debug\Proxy.LazyLoad.pdb
+D:\_git\DesignPatterns\DesignPatterns\Proxy.LazyLoad\obj\Debug\Proxy.LazyLoad.csprojResolveAssemblyReference.cache

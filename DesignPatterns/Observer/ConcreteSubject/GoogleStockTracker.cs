@@ -2,7 +2,7 @@
 using Observer.Subject;
 using System.Collections.Generic;
 
-namespace Observer.ConcreteObserver
+namespace Observer.ConcreteSubject
 {
     public class GoogleStockTracker : IStockTracker
     {

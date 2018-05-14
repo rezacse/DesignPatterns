@@ -1,5 +1,4 @@
-﻿using FactoryMethod.Models;
-using Strategy.BonusCalculator;
+﻿using Strategy.BonusCalculator;
 using Strategy.Factories;
 using Strategy.Models;
 using System;

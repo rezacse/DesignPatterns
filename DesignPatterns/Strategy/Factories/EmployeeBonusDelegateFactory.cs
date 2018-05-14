@@ -1,5 +1,4 @@
-﻿using FactoryMethod.Models;
-using Strategy.Models;
+﻿using Strategy.Models;
 using System;
 
 namespace Strategy.Factories

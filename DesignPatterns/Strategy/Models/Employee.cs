@@ -1,6 +1,4 @@
-﻿using FactoryMethod.Models;
-
-namespace Strategy.Models
+﻿namespace Strategy.Models
 {
     public class Employee
     {

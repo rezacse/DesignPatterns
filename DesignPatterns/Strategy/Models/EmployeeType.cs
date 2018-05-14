@@ -1,4 +1,4 @@
-﻿namespace FactoryMethod.Models
+﻿namespace Strategy.Models
 {
     public enum EmployeeType
     {
