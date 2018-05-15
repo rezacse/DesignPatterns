@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy.LazyLoad", "Proxy.LazyLoad\Proxy.LazyLoad.csproj", "{2010A5F0-360A-4131-94C8-A3F323C3F94C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{1E826A95-A98B-4B3B-8287-DB1D6AFC8611}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{2010A5F0-360A-4131-94C8-A3F323C3F94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2010A5F0-360A-4131-94C8-A3F323C3F94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2010A5F0-360A-4131-94C8-A3F323C3F94C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E826A95-A98B-4B3B-8287-DB1D6AFC8611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E826A95-A98B-4B3B-8287-DB1D6AFC8611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E826A95-A98B-4B3B-8287-DB1D6AFC8611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E826A95-A98B-4B3B-8287-DB1D6AFC8611}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -201,6 +207,7 @@ Global
 		{1847FACD-C618-45C2-912A-FE0FB100B510} = {663136C6-DEC4-4214-8E35-E8652D506787}
 		{72C0248A-B9E0-4AF1-90D0-08FB14636FF2} = {2556F5B0-5355-4546-AF01-A35B8A83738D}
 		{2010A5F0-360A-4131-94C8-A3F323C3F94C} = {2556F5B0-5355-4546-AF01-A35B8A83738D}
+		{1E826A95-A98B-4B3B-8287-DB1D6AFC8611} = {39186F11-484D-417E-AAEA-D4587E89C796}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC4E6F0B-0AC3-484D-8832-7FF42F27BFBB}
