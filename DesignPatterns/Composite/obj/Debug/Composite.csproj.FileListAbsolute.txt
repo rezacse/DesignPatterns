@@ -4,4 +4,3 @@ D:\_git\DesignPatterns\DesignPatterns\Composite\bin\Debug\Composite.pdb
 D:\_git\DesignPatterns\DesignPatterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\Composite\obj\Debug\Composite.exe
 D:\_git\DesignPatterns\DesignPatterns\Composite\obj\Debug\Composite.pdb
-D:\_git\DesignPatterns\DesignPatterns\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache

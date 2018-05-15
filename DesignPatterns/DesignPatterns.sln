@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{E88A6D1C-E4D3-4EA2-A4E5-275CF2B2F362}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{E310C1F4-1F39-4A4A-A73A-1B171FEAF849}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +171,10 @@ Global
 		{E88A6D1C-E4D3-4EA2-A4E5-275CF2B2F362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E88A6D1C-E4D3-4EA2-A4E5-275CF2B2F362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E88A6D1C-E4D3-4EA2-A4E5-275CF2B2F362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E310C1F4-1F39-4A4A-A73A-1B171FEAF849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E310C1F4-1F39-4A4A-A73A-1B171FEAF849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E310C1F4-1F39-4A4A-A73A-1B171FEAF849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E310C1F4-1F39-4A4A-A73A-1B171FEAF849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,6 +221,7 @@ Global
 		{2010A5F0-360A-4131-94C8-A3F323C3F94C} = {2556F5B0-5355-4546-AF01-A35B8A83738D}
 		{1E826A95-A98B-4B3B-8287-DB1D6AFC8611} = {39186F11-484D-417E-AAEA-D4587E89C796}
 		{E88A6D1C-E4D3-4EA2-A4E5-275CF2B2F362} = {07DCAE75-D922-4550-8CCB-3A88F7ACF64B}
+		{E310C1F4-1F39-4A4A-A73A-1B171FEAF849} = {BEB88C26-AF45-41A3-83C4-4C24D39414EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC4E6F0B-0AC3-484D-8832-7FF42F27BFBB}
