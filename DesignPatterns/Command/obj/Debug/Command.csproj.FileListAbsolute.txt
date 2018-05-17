@@ -1,7 +1,6 @@
 D:\_git\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.exe.config
 D:\_git\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.exe
 D:\_git\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.pdb
-D:\_git\DesignPatterns\DesignPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
 D:\_git\DesignPatterns\DesignPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\Command\obj\Debug\Command.exe
 D:\_git\DesignPatterns\DesignPatterns\Command\obj\Debug\Command.pdb

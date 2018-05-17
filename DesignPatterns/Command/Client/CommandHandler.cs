@@ -20,10 +20,10 @@ namespace Command.Client
             var parser = new CommandParser(availabeCommands);
             var command = parser.ParseCommand(args);
 
-            command?.Execute();
+            command.Execute();
         }
 
-        private IEnumerable<ICommandFactory> GetAvailableCommands()
+        private static IEnumerable<ICommandFactory> GetAvailableCommands()
         {
             return new ICommandFactory[]
             {
@@ -32,7 +32,7 @@ namespace Command.Client
             };
         }
 
-        private void PrintUsage(IEnumerable<ICommandFactory> availableCommands)
+        private static void PrintUsage(IEnumerable<ICommandFactory> availableCommands)
         {
             Console.WriteLine("Usage: Command Name Arguments");
             Console.WriteLine("Commands:");
