@@ -14,7 +14,7 @@ namespace Proxy.LazyLoad.Proxy
             GetEntity();
             OrderDate = OrderEntity.OrderDate;
             //_customer = new Lazy<Customer>(GetCustomer);
-            _customer = new Lazy<Customer>(() => new Customer(this.OrderEntity.CustomerId));
+            _customer = new Lazy<Customer>(() => new Customer(OrderEntity.CustomerId));
             _items = new Lazy<List<OrderDetails>>(GetItems);
         }
 
