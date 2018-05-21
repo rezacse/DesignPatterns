@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{E30D384B-2A12-48B5-8126-C39D7417491F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30D384B-2A12-48B5-8126-C39D7417491F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30D384B-2A12-48B5-8126-C39D7417491F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30D384B-2A12-48B5-8126-C39D7417491F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30D384B-2A12-48B5-8126-C39D7417491F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -257,6 +263,7 @@ Global
 		{B8CB76C3-BDDD-4150-9268-1FC141B89701} = {C1901000-181E-4FFB-8DDD-DBE373CE5AA7}
 		{AA2A8900-37F8-4122-AB5F-5900011CA6D9} = {FD8A929D-1E7A-4485-9386-3EDD2D3E162D}
 		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F} = {5E2D6E29-60E3-4109-B352-4D4839872780}
+		{E30D384B-2A12-48B5-8126-C39D7417491F} = {530ECB7A-77E0-4279-9FFC-97F21929CAB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC4E6F0B-0AC3-484D-8832-7FF42F27BFBB}

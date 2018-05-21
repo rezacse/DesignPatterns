@@ -1,0 +1,7 @@
+D:\_git\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+D:\_git\DesignPatterns\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+D:\_git\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+D:\_git\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+D:\_git\DesignPatterns\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb
