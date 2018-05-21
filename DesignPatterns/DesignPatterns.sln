@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResp", "ChainOfResp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{AA2A8900-37F8-4122-AB5F-5900011CA6D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,10 @@ Global
 		{AA2A8900-37F8-4122-AB5F-5900011CA6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA2A8900-37F8-4122-AB5F-5900011CA6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA2A8900-37F8-4122-AB5F-5900011CA6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -250,6 +256,7 @@ Global
 		{320BA58C-F31D-4DC6-B49D-FBCA6FD9426B} = {D370C234-284D-44F5-9858-6D47E08A19F9}
 		{B8CB76C3-BDDD-4150-9268-1FC141B89701} = {C1901000-181E-4FFB-8DDD-DBE373CE5AA7}
 		{AA2A8900-37F8-4122-AB5F-5900011CA6D9} = {FD8A929D-1E7A-4485-9386-3EDD2D3E162D}
+		{EBB1DDDC-2EFF-4D0B-A952-B8B09DC81A5F} = {5E2D6E29-60E3-4109-B352-4D4839872780}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC4E6F0B-0AC3-484D-8832-7FF42F27BFBB}
