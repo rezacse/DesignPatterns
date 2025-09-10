@@ -21,3 +21,7 @@ DesignPatterns/Bridge/obj/
 DesignPatterns/Bridge/Bridge.csproj.user
 DesignPatterns/Builder/bin/
 DesignPatterns/Builder/obj/
+DesignPatterns/ChainOfResp/bin/
+DesignPatterns/ChainOfResp/obj/
+DesignPatterns/*/bin/
+DesignPatterns/*/obj/
