@@ -1,0 +1,7 @@
+D:\_git\DesignPatterns\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+D:\_git\DesignPatterns\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+D:\_git\DesignPatterns\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+D:\_git\DesignPatterns\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
+D:\_git\DesignPatterns\DesignPatterns\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache

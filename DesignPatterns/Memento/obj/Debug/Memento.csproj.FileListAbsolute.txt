@@ -1,0 +1,7 @@
+D:\_git\DesignPatterns\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Memento\bin\Debug\Memento.exe
+D:\_git\DesignPatterns\DesignPatterns\Memento\bin\Debug\Memento.pdb
+D:\_git\DesignPatterns\DesignPatterns\Memento\obj\Debug\Memento.exe
+D:\_git\DesignPatterns\DesignPatterns\Memento\obj\Debug\Memento.pdb
+D:\_git\DesignPatterns\DesignPatterns\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache

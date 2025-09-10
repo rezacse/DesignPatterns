@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="prototypePattern.js"></script>
+</head>
+<body>
+    <div id="result"></div>
+
+    <script>
+        //window.onload = function() {
+        myNamespace.Calculator.prototype.add = function (x, y) {
+            var val = x - y;
+            this.resultCtrl.innerHTML = val;
+        }
+
+        var c = new myNamespace.Calculator("result");
+        c.add(2, 3);
+        //}
+    </script>
+</body>
+</html>

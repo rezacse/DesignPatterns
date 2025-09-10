@@ -1,0 +1,7 @@
+D:\_git\DesignPatterns\DesignPatterns\ChainOfResp\bin\Debug\ChainOfResp.exe.config
+D:\_git\DesignPatterns\DesignPatterns\ChainOfResp\bin\Debug\ChainOfResp.exe
+D:\_git\DesignPatterns\DesignPatterns\ChainOfResp\bin\Debug\ChainOfResp.pdb
+D:\_git\DesignPatterns\DesignPatterns\ChainOfResp\obj\Debug\ChainOfResp.csprojResolveAssemblyReference.cache
+D:\_git\DesignPatterns\DesignPatterns\ChainOfResp\obj\Debug\ChainOfResp.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\ChainOfResp\obj\Debug\ChainOfResp.exe
+D:\_git\DesignPatterns\DesignPatterns\ChainOfResp\obj\Debug\ChainOfResp.pdb

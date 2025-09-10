@@ -1,0 +1,6 @@
+D:\_git\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+D:\_git\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+D:\_git\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+D:\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+D:\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+D:\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb
