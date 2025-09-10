@@ -1,27 +1,18 @@
 ﻿using FactoryMethod.Factory;
 using FactoryMethod.Models;
 
-namespace FactoryMethod
+var employee = new Employee
 {
-    public class Program
-    {
-        private static void Main()
-        {
-            var employee = new Employee
-            {
-                EmployeeType = EmployeeType.Permanent
-            };
+    EmployeeType = EmployeeType.Permanent
+};
 
-            var factory = new EmployeeManagerFactory().GetEmployeeManager(employee);
-            factory.ApplySalary();
+var factory = new EmployeeManagerFactory().GetEmployeeManager(employee);
+factory.ApplySalary();
 
-            //
-            employee = new Employee
-            {
-                EmployeeType = EmployeeType.Contract
-            };
-            factory = new EmployeeManagerFactory().GetEmployeeManager(employee);
-            factory.ApplySalary();
-        }
-    }
-}
+//
+employee = new Employee
+{
+    EmployeeType = EmployeeType.Contract
+};
+factory = new EmployeeManagerFactory().GetEmployeeManager(employee);
+factory.ApplySalary();

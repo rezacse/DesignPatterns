@@ -3,6 +3,5 @@
 ################################################################################
 
 /DesignPatterns/.vs/DesignPatterns
-/DesignPatterns/AdapterPattern/bin/Debug/net9.0
-/DesignPatterns/Decorator/obj
-/DesignPatterns/Singleton/obj
+/DesignPatterns/*/bin
+/DesignPatterns/*/obj

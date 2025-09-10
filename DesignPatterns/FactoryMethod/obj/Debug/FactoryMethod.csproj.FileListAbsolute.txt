@@ -1,7 +1,0 @@
-E:\devResources\_git\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
-E:\devResources\_git\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
-E:\devResources\_git\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
-E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
-E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
-E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
-E:\devResources\_git\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
