@@ -56,3 +56,5 @@ D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.J
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.dll
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.pdb
 D:\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csprojResolveAssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.JavaScript\obj\Debug\Prototype.JavaScript.csproj.CoreCompileInputs.cache

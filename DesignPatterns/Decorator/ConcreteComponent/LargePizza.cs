@@ -1,4 +1,5 @@
-﻿using Decorator.Component;
+﻿using Decorator.BookDecorate;
+using Decorator.Component;
 
 namespace Decorator.ConcreteComponent
 {

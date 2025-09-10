@@ -1,4 +1,4 @@
-﻿namespace Decorator
+﻿namespace Decorator.BookDecorate
 {
     public class Constants
     {

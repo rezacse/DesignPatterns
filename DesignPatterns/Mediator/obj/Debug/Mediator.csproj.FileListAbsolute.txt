@@ -4,3 +4,11 @@ D:\_git\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
 D:\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.exe
 D:\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.pdb

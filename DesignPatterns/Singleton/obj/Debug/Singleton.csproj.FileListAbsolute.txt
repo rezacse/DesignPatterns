@@ -1,6 +1,0 @@
-D:\_git\DesignPatterns\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
-D:\_git\DesignPatterns\DesignPatterns\Singleton\bin\Debug\Singleton.exe
-D:\_git\DesignPatterns\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
-D:\_git\DesignPatterns\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
-D:\_git\DesignPatterns\DesignPatterns\Singleton\obj\Debug\Singleton.exe
-D:\_git\DesignPatterns\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

@@ -5,3 +5,11 @@ D:\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.cs
 D:\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
 D:\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

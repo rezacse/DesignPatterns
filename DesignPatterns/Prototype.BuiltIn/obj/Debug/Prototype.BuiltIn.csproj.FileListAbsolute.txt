@@ -4,3 +4,11 @@ D:\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\bin\Debug\Prototype.Buil
 D:\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.exe
 D:\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\bin\Debug\Prototype.BuiltIn.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\bin\Debug\Prototype.BuiltIn.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\bin\Debug\Prototype.BuiltIn.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.csproj.CoreCompileInputs.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.BuiltIn\obj\Debug\Prototype.BuiltIn.pdb

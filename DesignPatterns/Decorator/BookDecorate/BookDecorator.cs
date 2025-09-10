@@ -1,15 +1,15 @@
-﻿using Decorator.Common;
+﻿using Decorator.BookDecorate.Common;
 
-namespace Decorator
+namespace Decorator.BookDecorate
 {
     public class BookDecorator : IBook
     {
         public BookDecorator(IBook book)
         {
-            this.Target = book;
+            Target = book;
         }
 
-        public string Title => this.Target.Title;
+        public string Title => Target.Title;
         private IBook Target { get; }
 
         public virtual Size GetDimensions(Size propaganda)

@@ -4,3 +4,11 @@ D:\_git\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
 D:\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
 D:\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe
 D:\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb

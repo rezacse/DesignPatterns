@@ -1,6 +1,6 @@
-﻿using Decorator.Common;
+﻿using Decorator.BookDecorate.Common;
 
-namespace Decorator
+namespace Decorator.BookDecorate
 {
     public interface IBook
     {

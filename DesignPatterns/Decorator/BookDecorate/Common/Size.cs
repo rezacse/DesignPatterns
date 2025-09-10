@@ -1,4 +1,4 @@
-﻿namespace Decorator.Common
+﻿namespace Decorator.BookDecorate.Common
 {
     public class Size
     {
@@ -17,16 +17,16 @@
         public static Size Zero => new(Length.Zero, Length.Zero, Length.Zero);
 
         public Size Add(Size other)
-            => new(this.Width + other.Width, this.Length + other.Length, this.Height + other.Height);
+            => new(Width + other.Width, Length + other.Length, Height + other.Height);
         public Size ScaleHeight(decimal factor)
-            => new(this.Width, this.Length, this.Height.Scale(factor));
+            => new(Width, Length, Height.Scale(factor));
 
         public Size AddToTop(Size other)
-            => new(this.Width.Max(other.Width),
-                   this.Length.Max(other.Length),
-                   this.Height.Add(other.Height));
+            => new(Width.Max(other.Width),
+                   Length.Max(other.Length),
+                   Height.Add(other.Height));
 
         public override string ToString()
-            => Length.ToString(" x ", this.Width, this.Length, this.Height);
+            => Length.ToString(" x ", Width, Length, Height);
     }
 }

@@ -18,3 +18,5 @@ D:\_git\DesignPatterns\DesignPatterns\Prototype.Tests\obj\Debug\Prototype.Tests.
 D:\_git\DesignPatterns\DesignPatterns\Prototype.Tests\bin\Debug\Prototype.BuiltIn.exe
 D:\_git\DesignPatterns\DesignPatterns\Prototype.Tests\bin\Debug\Prototype.BuiltIn.pdb
 D:\_git\DesignPatterns\DesignPatterns\Prototype.Tests\bin\Debug\Prototype.BuiltIn.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.Tests\obj\Debug\Prototype.Tests.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype.Tests\obj\Debug\Prototype.Tests.csproj.CoreCompileInputs.cache

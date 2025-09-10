@@ -5,3 +5,11 @@ D:\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompile
 D:\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.exe
 D:\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.pdb
 D:\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\bin\Debug\Facade.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Facade\obj\Debug\Facade.pdb

@@ -1,4 +1,4 @@
-﻿namespace Decorator.Common
+﻿namespace Decorator.BookDecorate.Common
 {
     public class Length
     {
@@ -13,11 +13,11 @@
 
         public static Length Millimeter => new(0.001m);
 
-        public Length Add(Length other) => new(this.Meters + other.Meters);
+        public Length Add(Length other) => new(Meters + other.Meters);
 
-        public Length Scale(decimal factor) => new(this.Meters * factor);
+        public Length Scale(decimal factor) => new(Meters * factor);
 
-        public Length Max(Length other) => this.Meters >= other.Meters ? this : other;
+        public Length Max(Length other) => Meters >= other.Meters ? this : other;
 
 
         public static Length operator +(Length a, Length b) 
@@ -31,16 +31,16 @@
 
 
         private string ToString((decimal factor, string unit) scale)
-            => this.ToString(scale.factor, scale.unit);
+            => ToString(scale.factor, scale.unit);
 
         private string ToString(decimal factor, string unit)
-            => $"{this.Meters * factor:##.###} {unit}";
+            => $"{Meters * factor:##.###} {unit}";
 
         private static (decimal factor, string unit) GetUserFriendlyScale(decimal meters)
             => meters < .01M ? (1000, "mm") : meters < 0.1M ? (100, "cm") : (1, "m");
 
         public override string ToString() 
-            => this.ToString(GetUserFriendlyScale(this.Meters));
+            => ToString(GetUserFriendlyScale(Meters));
 
 
         private static IEnumerable<(decimal factor, string unit)> GetUserFriendlyScales(IEnumerable<decimal> meters)

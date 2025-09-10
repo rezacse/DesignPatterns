@@ -1,6 +1,6 @@
-﻿using Decorator.Common;
+﻿using Decorator.BookDecorate.Common;
 
-namespace Decorator
+namespace Decorator.BookDecorate
 {
     public class Book : IBook
     {
@@ -18,7 +18,7 @@ namespace Decorator
         public Size Dimensions { get; }
 
         public Size GetDimensions(Size propaganda)
-            => this.Dimensions.AddToTop(propaganda);
+            => Dimensions.AddToTop(propaganda);
 
         public override string ToString()
             => $"{Title} ({Dimensions})";

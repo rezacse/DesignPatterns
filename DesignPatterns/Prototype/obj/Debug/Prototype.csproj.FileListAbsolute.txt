@@ -5,3 +5,11 @@ D:\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreC
 D:\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.exe
 D:\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
 D:\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.exe.config
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+E:\devResources\_git\DesignPatterns\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
